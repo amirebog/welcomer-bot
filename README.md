@@ -1,9 +1,23 @@
-[![Version][version-shield]](version-url)
+[![Version][version-shield]][version-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stars][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![License][license-shield]][license-url]
+
+[version-shield]: https://img.shields.io/badge/version-1.0.0-blue
+[version-url]: https://github.com/your-username/your-repo/releases
+[contributors-shield]: https://img.shields.io/github/contributors/your-username/your-repo?color=green
+[contributors-url]: https://github.com/your-username/your-repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/your-username/your-repo?color=blue
+[forks-url]: https://github.com/your-username/your-repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/your-username/your-repo?color=blue
+[stars-url]: https://github.com/your-username/your-repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/your-username/your-repo?color=yellow
+[issues-url]: https://github.com/your-username/your-repo/issues
+[license-shield]: https://img.shields.io/badge/license-MIT-green
+[license-url]: https://github.com/your-username/your-repo/blob/main/LICENSE
+
 
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Welcome-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 

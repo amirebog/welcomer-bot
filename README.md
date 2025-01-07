@@ -40,3 +40,30 @@
 ```bash
 git clone https://github.com/your-username/discord-welcome-bot.git
 cd discord-welcome-bot
+```
+
+### 2️⃣ **پیکربندی توکن و شناسه کانال‌ها**
+
+این کد را وارد کنید 
+
+```bash
+{
+    "token": "YOUR_BOT_TOKEN",
+    "welcomeChannelId": "YOUR_WELCOME_CHANNEL_ID",
+    "goodbyeChannelId": "YOUR_GOODBYE_CHANNEL_ID"
+  }
+
+  ```
+  توضیحات:
+
+توکن ربات دیسکورد: برای دریافت توکن، به Discord Developer Portal بروید.
+شناسه کانال‌ها: برای دریافت شناسه کانال‌ها، در دیسکورد بر روی کانال راست کلیک کرده و گزینه Copy ID را انتخاب کنید. (برای فعال شدن این گزینه، باید Developer Mode را در تنظیمات دیسکورد روشن کنید).
+  ### 3️⃣ ** اجرا کردن بات **
+این دستور برای اجرا بات
+  ```bash
+npm install
+node index.js
+```
+
+
+

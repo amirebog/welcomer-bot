@@ -1,15 +1,13 @@
-[![نسخه][version-shield]](version-url)
-[![توسعه‌دهندگان][contributors-shield]][contributors-url]
-[![فورک‌ها][forks-shield]][forks-url]
-[![ستاره‌ها][stars-shield]][stars-url]
-[![مشکلات][issues-shield]][issues-url]
-[![مجوز MIT][license-shield]][license-url]
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stars][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 <center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Welcome-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 <br />
-
-[![اجرا در Repl.it](https://repl.it/badge/github/your-username/discord-welcome-bot)](https://replit.com)
-[![ویرایش در Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/your-username/discord-welcome-bot)
 
 ---
 
@@ -31,4 +29,14 @@
 برای اجرای این ربات، موارد زیر لازم است:
 1. **Node.js v16+**: [دریافت Node.js](https://nodejs.org/)
 2. **توکن ربات دیسکورد**: می‌توانید توکن خود را از [Discord Developer Portal](https://discord.com/developers/applications) دریافت کنید.
-3. **شناسه کانال‌ها**: شناسه کانال‌های خوشامدگویی و خداحافظی را از دیسکورد
+3. **شناسه کانال‌ها**: شناسه کانال‌های خوشامدگویی و خداحافظی را از دیسکورد دریافت کنید.
+
+---
+
+## 🚀 نصب و اجرا
+
+### 1. کلون کردن مخزن
+ابتدا پروژه را کلون کنید:
+```bash
+git clone https://github.com/your-username/discord-welcome-bot.git
+cd discord-welcome-bot

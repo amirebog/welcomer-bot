@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_BOT_TOKEN",
+    "welcomeChannelId": "YOUR_WELCOME_CHANNEL_ID",
+    "goodbyeChannelId": "YOUR_GOODBYE_CHANNEL_ID"
+  }

@@ -1,5 +1,6 @@
 [![Version][version-shield]][version-url]
-[![Discord][contributors-shield]][contributors-url]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/amireb._.og0047/)
+
 
 
 [version-shield]: https://img.shields.io/badge/version-1.0.0-blue
